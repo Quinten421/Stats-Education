@@ -1,8 +1,6 @@
-# Project 02 Proposal: <Studying Statistical Reasoning using Applied Statistics 1 Courses from Chico State>
+# Project 02 Proposal: Studying Statistical Reasoning using Applied Statistics 1 Courses from Chico State
 
-**Team members:** <Jake Cerney> <Quinten Robinson>
-
-See the [Project 02 instructions](https://data385.github.io/project/proj02_wholegame.html) for what goes in each section. Bullet points are great. Put any images in an `img/` folder.
+**Team members:** Jake Cerney, Quinten Robinson
 
 ## 1. Problem statement
 
