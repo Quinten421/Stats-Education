@@ -34,15 +34,16 @@ _Scraping: summarize the "Before You Scrape" checklist. Downloading: citation, l
 
 _If you do not have the data yet, list the variables you plan to collect and the exact question text. Include 1) the variable name, 2) data type 3) description. Use bullet points._
 
-* Gender
-* Academic level (Fr/So/Jr/Sr)
-* Major (Categorical, based on majors in the class)
-* How many math classes have you taken in college? (Numeric, prereqs.)
-* Is class material engaging? (Likert)
-* Is this course engaging? (Likert)
-* Do you feel this course is useful? (Likert)
-* Is your data set topic boring? (Open-ended response)
-* What grade do you expect to receive in the course?
+- Gender
+- Academic level (Fr/So/Jr/Sr)
+- Major (Demographics, questions 1-4)
+- Categorical, based on majors in the class
+- How many math classes have you taken in college? (Numeric)
+- How would you describe your comprehension of simple linear regression after these past few weeks? (MCQ) (Strong comprehension, moderate comprehension, or weak comprehension)
+- Which element of the instructional process (lecture materials, in-class examples, talking with classmates, instructor feedback) was most important to your comprehension of simple linear regression?
+- Has your attitude after learning simple linear regression changed how you feel about statistics?
+- What grade do you expect to receive in the course? (MCQ)
+
 
 ## 4. Data example
 
